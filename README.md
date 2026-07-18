@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iamwyrm/iamwyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# &nbsp; W Y R M
 
-Here are some ideas to get you started:
+**Take control of what you Own.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[**iamwyrm.com**](https://iamwyrm.com) &nbsp;·&nbsp; [**X / @iamwyrm**](https://x.com/iamwyrm) &nbsp;·&nbsp; [**Gumroad**](https://iamwyrm.gumroad.com)
+
+</div>
+
+---
